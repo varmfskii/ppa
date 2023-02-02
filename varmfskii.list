@@ -1,0 +1,1 @@
+deb [signed-by=/etc/apt/trusted.gpg.d/varmfskii.gpg] https://varmfskii.github.io/ppa ./

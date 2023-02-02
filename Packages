@@ -1,0 +1,127 @@
+Package: zxnftp
+Version: 1.01.00
+Architecture: amd64
+Essential: no
+Maintainer: varmfskii@gmail.com
+Installed-Size: 52
+Filename: ./zxnftp-1.01.00_amd64.deb
+Size: 11880
+MD5sum: c5e628723eae48aade5436936eddee69
+SHA1: f488133c78ccc5092495b5b0736ee99e34524e91
+SHA256: 214612a1e4b4bbc50abde51113ccc463043e1e6410426c4792367e9d75d6de1e
+Section: custom
+Priority: optional
+Description: The client for a ftp like service for the ZX Spectrum Next
+
+Package: zxnftp
+Version: 1.01.00-1
+Architecture: arm64
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 51
+Depends: ncurses
+Filename: ./zxnftp_1.01.00-1_arm64.deb
+Size: 11392
+MD5sum: b3fb13f69b2614fe1d41182687891b8b
+SHA1: e8dd1093aa86d78bcb7a3aa25b75b15b12c4eb02
+SHA256: ac522e77d94ada349190b55fa388409514b813ea1e33b226822d56d8c326f189
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Client for FTP like protocol with ZX Spectrum Next
+
+Package: zxnftp
+Version: 1.01.00-1
+Architecture: armhf
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 36
+Depends: ncurses
+Filename: ./zxnftp_1.01.00-1_armhf.deb
+Size: 11004
+MD5sum: 95216e57ae587f1467be27327638a413
+SHA1: a52ed3818d60a8f2ebba17a279aed52ffe777098
+SHA256: 8f24b25d076fd00dc3a30b477303aa35e55915dd263d65ccb57c764382668ceb
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Client for FTP like protocol with ZX Spectrum Next
+
+Package: zxnftp
+Version: 1.01.00-1
+Architecture: riscv64
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 41
+Depends: ncurses
+Filename: ./zxnftp_1.01.00-1_riscv64.deb
+Size: 10756
+MD5sum: e2091197baacf068f3ff28d9b2e49ce9
+SHA1: 7549b191232e8bebaafa6ddd0ea234b63056b4a7
+SHA256: 7a5dcc07c1aa19aaed321813785dd4305f9e076b8357524a469a6358537895bc
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Client for FTP like protocol with ZX Spectrum Next
+
+Package: zxnimage
+Version: 2.00.02-1
+Architecture: amd64
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 399
+Depends: libnetpbm10
+Filename: ./zxnimage_2.00.02-1_amd64.deb
+Size: 44992
+MD5sum: 05a66beb3f48a3beca0e00e350542d0a
+SHA1: 292039541dea8e67ab998498bd20e64a42a5e09d
+SHA256: f1d50ae428fd9c70f769556a2eb888dbadf40c2a371bd022b3d697a2678727f9
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Image tools for ZX Spectrum Next files
+
+Package: zxnimage
+Version: 2.00.02-1
+Architecture: arm64
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 400
+Depends: libnetpbm10
+Filename: ./zxnimage_2.00.02-1_arm64.deb
+Size: 43216
+MD5sum: 6581d334da64e94333eefbd068244a6c
+SHA1: c274b3c4e4c477d001d275480e8b16bd75a47dd4
+SHA256: 46cd2868e00dda34e6106acfbcf353a0517bac08877c8ac9debecec4fba77367
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Image tools for ZX Spectrum Next files
+
+Package: zxnimage
+Version: 2.00.02-1
+Architecture: armhf
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 323
+Depends: libnetpbm10
+Filename: ./zxnimage_2.00.02-1_armhf.deb
+Size: 41348
+MD5sum: 34767dac71b8c39909710711168e204a
+SHA1: ca2343869faf7d6fd2372bf84d7555a696c05ef8
+SHA256: fe24c737d2d1b418c29081082ce7a940626fadd50584887e2341b0b380fa4cbc
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Image tools for ZX Spectrum Next files
+
+Package: zxnimage
+Version: 2.00.02-1
+Architecture: riscv64
+Maintainer: Theodore (Alex) Evans <varmfskii@gmail.com>
+Installed-Size: 351
+Depends: libnetpbm
+Filename: ./zxnimage_2.00.02-1_riscv64.deb
+Size: 43624
+MD5sum: eb7c43c3a9f956151d56ac9528d03afc
+SHA1: 93411b0c2ea10e173442c0dbcfa327da79c94988
+SHA256: bb6cea114ac60254148270bac48d159e82093f5ff6c1e02bf3a4d95dd2aaca04
+Section: unknown
+Priority: optional
+Homepage: <insert the upstream URL, if relevant>
+Description: Image tools for ZX Spectrum Next files
+
